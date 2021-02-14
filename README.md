@@ -104,7 +104,7 @@ report it.</strong></p>
 <li><a href="https://stackoverflow.com/help/how-to-ask">How to ask questions</a> - Stack Overflow</li>
 <li><a href="https://stackoverflow.com/help/minimal-reproducible-example">How to create a minimal, reproducible example</a> - Stack Overflow</li>
 <li><a href="https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/">Writing the perfect question</a> - Jon Skeet&#39;s coding blog</li>
-<li><a href="https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help">Code philosophy, asking for help</a> - From <a href="modules/level_4/introduction_to_programming_i">Introduction to Programming I</a> module - :lock: <em>you need to be enrolled in this degree to view this lecture</em>.</li>
+<li><a href="https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help">Code philosophy, asking for help</a> - From <a href="modules/level_4/cm_1005_introduction_to_programming_i">Introduction to Programming I</a> module - :lock: <em>you need to be enrolled in this degree to view this lecture</em>.</li>
 </ul>
 </li>
 <li>Debugging code<ul>
@@ -148,56 +148,56 @@ report it.</strong></p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_4/algorithms_and_data_structures_i">Algorithms and Data Structures I</a></td>
+<td><a href="modules/level_4/cm_1035_algorithms_and_data_structures_i">Algorithms and Data Structures I</a></td>
 <td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1035-algos-data-i</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/computational_mathematics">Computational Mathematics</a> *</td>
+<td><a href="modules/level_4/cm_1015_computational_mathematics">Computational Mathematics</a> *</td>
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1015-computational-math</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/discrete_mathematics">Discrete Mathematics</a></td>
+<td><a href="modules/level_4/cm_1020_discrete_mathematics">Discrete Mathematics</a></td>
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1020-discrete-math</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/fundamentals_of_computer_science">Fundamentals of Computer Science</a></td>
+<td><a href="modules/level_4/cm_1025_fundamentals_of_computer_science">Fundamentals of Computer Science</a></td>
 <td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1025-fundamental-cs</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/how_computers_work">How Computers Work</a></td>
+<td><a href="modules/level_4/cm_1030_how_computers_work">How Computers Work</a></td>
 <td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1030-hcw</code> / <code>#rpl-google-it</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/introduction_to_programming_i">Introduction to Programming I</a></td>
+<td><a href="modules/level_4/cm_1005_introduction_to_programming_i">Introduction to Programming I</a></td>
 <td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
 <td>No</td>
 <td><code>#cm1005-intro-prog-i</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/introduction_to_programming_ii">Introduction to Programming II</a></td>
+<td><a href="modules/level_4/cm_1010_introduction_to_programming_ii">Introduction to Programming II</a></td>
 <td><strong>ITP2</strong></td>
 <td><strong>CM1010</strong></td>
 <td>No</td>
 <td><code>#cm1010-intro-prog-ii</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/web_development">Web Development</a></td>
+<td><a href="modules/level_4/cm_1040_web_development">Web Development</a></td>
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
@@ -224,56 +224,56 @@ report it.</strong></p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_5/agile_software_projects">Agile Software Projects</a></td>
+<td><a href="modules/level_5/cm_2020_agile_software_projects">Agile Software Projects</a></td>
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
 <td><code>#cm2020-agile-software-projects</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
+<td><a href="modules/level_5/cm_2035_algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
 <td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2035-algos-data-ii</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/computer_security">Computer Security</a></td>
+<td><a href="modules/level_5/cm_2025_computer_security">Computer Security</a></td>
 <td><strong>CS</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2025-computer-security</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/databases_networks_and_the_web">Databases, Networks and the Web</a></td>
+<td><a href="modules/level_5/cm_2040_databases_networks_and_the_web">Databases, Networks and the Web</a></td>
 <td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2040-databases-networks-web</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/graphics_programming">Graphics Programming</a></td>
+<td><a href="modules/level_5/cm_2030_graphics_programming">Graphics Programming</a></td>
 <td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
 <td>No</td>
 <td><code>#cm2030-graphics-programming</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/object_oriented_programming">Object Oriented Programming</a></td>
+<td><a href="modules/level_5/cm_2005_object_oriented_programming">Object Oriented Programming</a></td>
 <td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
 <td><code>#cm2005-object-oriented-programming</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/programming_with_data">Programming with Data</a></td>
+<td><a href="modules/level_5/cm_2015_programming_with_data">Programming with Data</a></td>
 <td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2015-programming-with-data</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/software_design_and_development">Software Design and Development</a></td>
+<td><a href="modules/level_5/cm_2010_software_design_and_development">Software Design and Development</a></td>
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
@@ -303,79 +303,79 @@ following modules.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_6/cm_3045">3D Graphics and Animation</a></td>
+<td><a href="modules/level_6/cm_3045_3d_graphics_animation">3D Graphics and Animation</a></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3045-3d-graphics-animation</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3035">Advanced Web Development</a></td>
+<td><a href="modules/level_6/cm_3035_advanced_web_development">Advanced Web Development</a></td>
 <td><strong>CM3035</strong></td>
 <td>No</td>
 <td><code>#cm3035-adv-web-dev</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3020">Artificial Intelligence</a></td>
+<td><a href="modules/level_6/cm_3020_artificial_intelligence">Artificial Intelligence</a></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3020-artificial-intelligence</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3005">Data Science</a></td>
+<td><a href="modules/level_6/cm_3005_data_science">Data Science</a></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3005-data-science</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3010">Databases and Advanced Data Techniques</a></td>
+<td><a href="modules/level_6/cm_3010_databases_advanced_data_techniques">Databases and Advanced Data Techniques</a></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3010-databases-advanced-data-techniques</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3030">Games Development</a></td>
+<td><a href="modules/level_6/cm_3030_games_development">Games Development</a></td>
 <td><strong>CM3030</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3030-games-development</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3065">Intelligent Signal Processing</a></td>
+<td><a href="modules/level_6/cm_3065_intelligent_signal_processing">Intelligent Signal Processing</a></td>
 <td><strong>CM3065</strong></td>
 <td>No</td>
 <td><code>#cm3065-intelligent-signal-processing</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3055">Interaction Design</a></td>
+<td><a href="modules/level_6/cm_3055_interaction_design">Interaction Design</a></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3055-interaction-design</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3015">Machine Learning and Neural Networks</a></td>
+<td><a href="modules/level_6/cm_3015_machine_learning_neural_networks">Machine Learning and Neural Networks</a></td>
 <td><strong>CM3015</strong></td>
 <td>No</td>
 <td><code>#cm3015-machine-learning-and-neural-networks</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3050">Mobile Development</a></td>
+<td><a href="modules/level_6/cm_3050_mobile_development">Mobile Development</a></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
 <td><code>#cm3050-mobile-development</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3060">Natural Language Processing</a></td>
+<td><a href="modules/level_6/cm_3060_natural_language_processing">Natural Language Processing</a></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3060-natural-language-processing</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3040">Physical Computing and Internet of Things</a></td>
+<td><a href="modules/level_6/cm_3040_physical_computing_iot">Physical Computing and Internet of Things</a></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
 <td><code>#cm3040-physical-computing-internet-of-things</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3025">Virtual Reality</a></td>
+<td><a href="modules/level_6/cm_3025_virtual_reality">Virtual Reality</a></td>
 <td><strong>CM3025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3025-virtual-reality</code></td>
@@ -421,7 +421,7 @@ relevant topic for the final project.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_6/final_project">Final Project</a></td>
+<td><a href="modules/level_6/cm_3070_final_project">Final Project</a></td>
 <td><strong>CM3070</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3070-final-project</code></td>
