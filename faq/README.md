@@ -31,8 +31,6 @@
     - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
     - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
     - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
-  - [Legal concerns](#legal-concerns)
-    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
   - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
     - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
     - [Is RPL time limited](#is-rpl-time-limited)
@@ -41,7 +39,15 @@
     - [Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration](#does-a-possible-rpl-only-get-considered-if-it-is-from-another-university-or-could-the-content-syllabus-of-other-certifications-be-looked-at-for-possible-matchingconsideration)
   - [Performance-Based Admission](#performance-based-admission)
     - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
+  - [Coursera](#coursera)
+    - [Do we still get access to the module resources once the module is complete](#do-we-still-get-access-to-the-module-resources-once-the-module-is-complete)
+    - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
+    - [Modules involving mathematics](#modules-involving-mathematics)
+      - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
   - [Modules & Progression](#modules--progression)
+    - [Final Project](#final-project)
+      - [Can we register 3 modules plus the final project in the last semester](#can-we-register-3-modules-plus-the-final-project-in-the-last-semester)
+      - [Is the final project done in a team or individually](#is-the-final-project-done-in-a-team-or-individually)
     - [How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
     - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
     - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
@@ -52,7 +58,6 @@
     - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
     - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
     - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
-    - [Can we register 3 modules + project in last semester](#can-we-register-3-modules--project-in-last-semester)
     - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
     - [What are the officially suggested study hours for this programme](#what-are-the-officially-suggested-study-hours-for-this-programme)
     - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
@@ -77,6 +82,12 @@
     - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
     - [Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-computational-math-or-discrete-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
     - [Have you considered using ProctorU as a distributed exam solution It seems to have a fair amount of adoption among MOOC providers](#have-you-considered-using-proctoru-as-a-distributed-exam-solution-it-seems-to-have-a-fair-amount-of-adoption-among-mooc-providers)
+  - [Grades & Results](#grades--results)
+    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
+    - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
+    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
+    - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
+    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Technical questions](#technical-questions)
     - [Which are the programming languages we will come across through the course](#which-are-the-programming-languages-we-will-come-across-through-the-course)
     - [Will C# be taught in level 6, especially in VR module](#will-c-be-taught-in-level-6-especially-in-vr-module)
@@ -87,27 +98,18 @@
     - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
     - [Have Level 5 and 6 Modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
     - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
-  - [Grades & Results](#grades--results)
-    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
-    - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
-    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
-    - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
-    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Graduation & Beyond](#graduation--beyond)
     - [Is this programme accredited](#is-this-programme-accredited)
     - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
     - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
     - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
     - [Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates](#do-usually-students-come-to-london-to-get-their-diplomas-once-they-have-graduated-from-uol-or-are-they-being-posted-to-graduates)
-  - [Coursera](#coursera)
-    - [General topics](#general-topics-1)
-      - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
-    - [Modules involving mathematics](#modules-involving-mathematics)
-      - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
   - [Slack Community](#slack-community)
     - [What are the basics on how to use Slack](#what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
     - [I want to discuss off-topic things with other students, where should I go](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
+  - [Legal concerns](#legal-concerns)
+    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
   - [Contributing to REPL](#contributing-to-repl)
     - [How can I contribute to this repository](#how-can-i-contribute-to-this-repository)
   - [Off-topic](#off-topic)
@@ -235,14 +237,6 @@ If you have any specific queries about something you have created which you are 
 
 ---
 
-## Legal concerns
-
-### What are the legal protections for the distance-learning student
-
-- See [this article in the Subreddit section of the REPL](../subreddit/legal-protections.md) for details.
-
----
-
 ## Recognition of Prior Learning (RPL)
 
 ### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
@@ -286,7 +280,36 @@ If you have any specific queries about something you have created which you are 
 
 ---
 
+## Coursera
+
+### Do we still get access to the module resources once the module is complete
+
+- Yes. You will not be able to access graded coursework items to review past submissions, but you can still access the videos in each week of the **Overview**, the **Grades** page, your **Notes** if any, extra **Resources** if any as well as the **Discussion Forums**.
+
+### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
+
+- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
+- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
+
+### Modules involving mathematics
+
+#### Why am I seeing weird symbols in the questions from the quizzes
+
+-For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
+
+---
+
 ## Modules & Progression
+
+### Final Project
+
+#### Can we register 3 modules plus the final project in the last semester
+
+- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
+
+#### Is the final project done in a team or individually
+
+- This will consist of an **individual** project.
 
 ### How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule
 
@@ -341,10 +364,6 @@ If you have any specific queries about something you have created which you are 
 
 - We would advise contacting Goldsmiths directly about this. Please see the below email address -
   <intcomp@gold.ac.uk>.
-
-### Can we register 3 modules + project in last semester
-
-- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
 
 ### Do you recommend taking four modules at a time if they are available
 
@@ -483,6 +502,31 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
+## Grades & Results
+
+### How does the grading work and what's the assessment structure of this degree
+
+- See [the Grades Guide in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
+
+### My peer-reviewed work isn't graded yet, what can I do
+
+- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
+
+### Do I have to complete all the formative as well as the summative assessments on Coursera
+
+- No, but you will learn more if you work hard. See [this article in the Subreddit section of the REPL](../subreddit/formative-summative.md) for details.
+
+### How do you assign grades? Grading on a Curve or absolute grading
+
+- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
+
+### What are the deadlines to complete summative quizzes
+
+- You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
+- You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
+
+---
+
 ## Technical questions
 
 ### Which are the programming languages we will come across through the course
@@ -523,31 +567,6 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
-## Grades & Results
-
-### How does the grading work and what's the assessment structure of this degree
-
-- See [the Grades Guide in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
-
-### My peer-reviewed work isn't graded yet, what can I do
-
-- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
-
-### Do I have to complete all the formative as well as the summative assessments on Coursera
-
-- No, but you will learn more if you work hard. See [this article in the Subreddit section of the REPL](../subreddit/formative-summative.md) for details.
-
-### How do you assign grades? Grading on a Curve or absolute grading
-
-- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
-
-### What are the deadlines to complete summative quizzes
-
-- You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
-- You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
-
----
-
 ## Graduation & Beyond
 
 ### Is this programme accredited
@@ -574,23 +593,6 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
-## Coursera
-
-### General topics
-
-#### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
-
-- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
-- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
-
-### Modules involving mathematics
-
-#### Why am I seeing weird symbols in the questions from the quizzes
-
--For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
-
----
-
 ## Slack Community
 
 ### What are the basics on how to use Slack
@@ -613,6 +615,14 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
+## Legal concerns
+
+### What are the legal protections for the distance-learning student
+
+- See [this article in the Subreddit section of the REPL](../subreddit/legal-protections.md) for details.
+
+---
+
 ## Contributing to REPL
 
 ### How can I contribute to this repository
@@ -625,5 +635,5 @@ We're glad you asked! We have [contributing guidelines](https://github.com/world
 
 ### Where's the best place to read about Dr. Yee-King's research with computer music
 
-- On my website: [http://www.yeeking.net](http://www.yeeking.net)
-- And on my GS profile: [https://goldsmiths.academia.edu/MatthewYeeKing](https://goldsmiths.academia.edu/MatthewYeeKing)
+- On his website: [http://www.yeeking.net](http://www.yeeking.net)
+- And on his GS profile: [https://goldsmiths.academia.edu/MatthewYeeKing](https://goldsmiths.academia.edu/MatthewYeeKing)
