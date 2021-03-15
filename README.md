@@ -48,7 +48,7 @@ report it.</strong></p>
 
 # Current week
 
-- Week **22**.
+- Semester done/ending :tada:. [Week: **23**]
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
@@ -339,7 +339,7 @@ following modules.</p>
 <tr>
 <td><a href="modules/level_6/cm_3030_games_development">Games Development</a></td>
 <td><strong>CM3030</strong></td>
-<td><strong>Yes</strong></td>
+<td><strong>No</strong></td>
 <td><code>#cm3030-games-development</code></td>
 </tr>
 <tr>
