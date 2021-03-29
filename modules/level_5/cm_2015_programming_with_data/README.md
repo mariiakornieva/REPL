@@ -72,6 +72,8 @@ One two hour unseen written examination and coursework (Type I)
 ### Data Science
 
 - [Foundations of Data Science: K-Means Clustering in Python](https://www.coursera.org/learn/data-science-k-means-clustering-python) - Coursera, by Dr Matthew Yee-King +3 more instructors.
+- [Data Science playlist](https://www.youtube.com/watch?v=GjKQ6V_ViQE&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp) - Youtube, by Keith Galli: web scraping, numpy, pandas, plotting, NLP, sklearn.
+- [Machine Learning & Data Science playlist](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) - Youtube, by Derek Banas: probability, statistics, numpy, pandas, plotting, time series
 
 ### Python
 
@@ -103,7 +105,7 @@ One two hour unseen written examination and coursework (Type I)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) - pydata.org
 - [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
 - [Learn Pandas](https://www.kaggle.com/learn/pandas) - Kaggle
-- [Vincent D. Warmerdam | PyData Eindhoven 2019](https://www.youtube.com/watch?v=yXGCKqo5cEY) - YouTube
+- [Vincent D. Warmerdam - PyData Eindhoven 2019](https://www.youtube.com/watch?v=yXGCKqo5cEY) - YouTube
 
 ## :heart: Notes
 
