@@ -340,6 +340,34 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "saintasia",
+      "name": "Anastasia Kashkinova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24760900?v=4",
+      "profile": "https://anastasia-kas.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SergiusGit",
+      "name": "Sergei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7987304?v=4",
+      "profile": "https://github.com/SergiusGit",
+      "contributions": [
+        "doc",
+        "question"
+      ]
+    },
+    {
+      "login": "hitfzyangdianshi",
+      "name": "大大狐狸cyberfox_meow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10493326?v=4",
+      "profile": "https://github.com/hitfzyangdianshi",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
