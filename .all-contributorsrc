@@ -357,7 +357,8 @@
       "profile": "https://github.com/SergiusGit",
       "contributions": [
         "doc",
-        "question"
+        "question",
+        "bug"
       ]
     },
     {
@@ -367,6 +368,15 @@
       "profile": "https://github.com/hitfzyangdianshi",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "gnufs",
+      "name": "Ali G",
+      "avatar_url": "https://avatars.githubusercontent.com/u/436001?v=4",
+      "profile": "https://github.com/gnufs",
+      "contributions": [
+        "content"
       ]
     }
   ],
