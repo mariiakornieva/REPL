@@ -15,7 +15,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 # Current week
 
-- Week **1**.
+- Week **2**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
@@ -273,6 +273,7 @@ following modules.</p>
 <thead>
 <tr>
 <th>Module name</th>
+<th>Abbreviation</th>
 <th>Module code</th>
 <th>Written exam?</th>
 <th>Slack channel</th>
@@ -281,78 +282,91 @@ following modules.</p>
 <tbody>
 <tr>
 <td><a href="modules/level_6/cm_3045_3d_graphics_animation">3D Graphics and Animation</a></td>
+<td><strong>3DGA</strong></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3045-3d-graphics-animation</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3035_advanced_web_development">Advanced Web Development</a></td>
+<td><strong>AWD</strong></td>
 <td><strong>CM3035</strong></td>
 <td>No</td>
 <td><code>#cm3035-adv-web-dev</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3020_artificial_intelligence">Artificial Intelligence</a></td>
+<td><strong>AI</strong></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3020-artificial-intelligence</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3005_data_science">Data Science</a></td>
+<td><strong>DS</strong></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3005-data-science</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3010_databases_advanced_data_techniques">Databases and Advanced Data Techniques</a></td>
+<td><strong>DADT</strong></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3010-databases-advanced-data-techniques</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3030_games_development">Games Development</a></td>
+<td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
 <td><strong>No</strong></td>
 <td><code>#cm3030-games-development</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3065_intelligent_signal_processing">Intelligent Signal Processing</a></td>
+<td><strong>ISP</strong></td>
 <td><strong>CM3065</strong></td>
 <td>No</td>
 <td><code>#cm3065-intelligent-signal-processing</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3055_interaction_design">Interaction Design</a></td>
+<td><strong>ID</strong></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3055-interaction-design</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3015_machine_learning_neural_networks">Machine Learning and Neural Networks</a></td>
+<td><strong>MLNN</strong></td>
 <td><strong>CM3015</strong></td>
 <td>No</td>
 <td><code>#cm3015-machine-learning-and-neural-networks</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3050_mobile_development">Mobile Development</a></td>
+<td><strong>MD</strong></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
 <td><code>#cm3050-mobile-development</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3060_natural_language_processing">Natural Language Processing</a></td>
+<td><strong>NLP</strong></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3060-natural-language-processing</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3040_physical_computing_iot">Physical Computing and Internet of Things</a></td>
+<td><strong>IOT</strong></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
 <td><code>#cm3040-physical-computing-internet-of-things</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3025_virtual_reality">Virtual Reality</a></td>
+<td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3025-virtual-reality</code></td>
@@ -557,29 +571,33 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
     <td align="center"><a href="https://xplaind.com"><img src="https://avatars0.githubusercontent.com/u/7108679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irfanullah Jan</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=irfanullahjan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/jacktgriffiths"><img src="https://avatars2.githubusercontent.com/u/22191055?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Griffiths</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=jacktgriffiths" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kaemo"><img src="https://avatars2.githubusercontent.com/u/1733602?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kajetan Maurycy Olszewski</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=kaemo" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/zubmic"><img src="https://avatars1.githubusercontent.com/u/49207678?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michał Żuber</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=zubmic" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kaushikpadmanaban"><img src="https://avatars.githubusercontent.com/u/78048337?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kaushik Padmanaban</b></sub></a><br /><a href="#content-kaushikpadmanaban" title="Content">🖋</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/zubmic"><img src="https://avatars1.githubusercontent.com/u/49207678?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michał Żuber</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=zubmic" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/NagariaHussain"><img src="https://avatars1.githubusercontent.com/u/34810212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammad Hussain Nagaria</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=NagariaHussain" title="Documentation">📖</a></td>
     <td align="center"><a href="http://calisir@harvardiana.com"><img src="https://avatars3.githubusercontent.com/u/28446823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Osman CALISIR</b></sub></a><br /><a href="https://github.com/world-class/REPL/issues?q=author%3Aosmancalisir" title="Bug reports">🐛</a> <a href="#content-osmancalisir" title="Content">🖋</a></td>
     <td align="center"><a href="http://ryanslevin.com"><img src="https://avatars0.githubusercontent.com/u/41084841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ryan Slevin</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ryanslevin" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://www.sashavarlamov.com"><img src="https://avatars0.githubusercontent.com/u/10859025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sasha Varlamov</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=svarlamov" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="http://www.sashavarlamov.com"><img src="https://avatars0.githubusercontent.com/u/10859025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sasha Varlamov</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=svarlamov" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SergiusGit"><img src="https://avatars.githubusercontent.com/u/7987304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergei</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=SergiusGit" title="Documentation">📖</a> <a href="#question-SergiusGit" title="Answering Questions">💬</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASergiusGit" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://shen.hong.io"><img src="https://avatars3.githubusercontent.com/u/6318461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shen Zhou Hong</b></sub></a><br /><a href="#blog-ShenZhouHong" title="Blogposts">📝</a> <a href="#content-ShenZhouHong" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/commits?author=ShenZhouHong" title="Documentation">📖</a> <a href="#tutorial-ShenZhouHong" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/eicksl"><img src="https://avatars2.githubusercontent.com/u/29685894?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Spencer Eick</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=eicksl" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Sukhjit-Mann"><img src="https://avatars0.githubusercontent.com/u/62451479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sukhjit Mann</b></sub></a><br /><a href="#content-Sukhjit-Mann" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASukhjit-Mann" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Sukhjit-Mann"><img src="https://avatars0.githubusercontent.com/u/62451479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sukhjit Mann</b></sub></a><br /><a href="#content-Sukhjit-Mann" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASukhjit-Mann" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars0.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Documentation">📖</a> <a href="#maintenance-sglavoie" title="Maintenance">🚧</a> <a href="https://github.com/world-class/REPL/pulls?q=is%3Apr+reviewed-by%3Asglavoie" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/tonihe"><img src="https://avatars.githubusercontent.com/u/17664719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Toni </b></sub></a><br /><a href="#content-tonihe" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Xuan-Lim"><img src="https://avatars0.githubusercontent.com/u/24488417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xuan Lim</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Xuan-Lim" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/ykahan"><img src="https://avatars2.githubusercontent.com/u/15960877?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yehoshua Kahan</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ykahan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Z80-dreams"><img src="https://avatars0.githubusercontent.com/u/52473290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Z80-dreams</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Z80-dreams" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/gsej"><img src="https://avatars1.githubusercontent.com/u/7272850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gsej</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=gsej" title="Documentation">📖</a></td>
     <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/hitfzyangdianshi"><img src="https://avatars.githubusercontent.com/u/10493326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>大大狐狸cyberfox_meow</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=hitfzyangdianshi" title="Documentation">📖</a></td>
   </tr>
 </table>
