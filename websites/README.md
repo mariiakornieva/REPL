@@ -80,7 +80,6 @@
     - [Swift](#swift)
   - [Java](#java)
   - [JavaScript](#javascript-1)
-  - [Julia](#julia)
   - [Kotlin](#kotlin)
   - [Markdown](#markdown)
   - [Python](#python-1)
@@ -223,13 +222,17 @@
 - :heart: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - _"A collection of awesome lists for hackers, pentesters & security researchers."_
 - [Hacksplaining](https://www.hacksplaining.com/) - _"Hacksplaining: Learn to hack."_
 - [Hacker Tools](https://hacker-tools.github.io) - _"Learn to make the most of the tools that hackers have been using for decades."_
+- [pwn.college](https://pwn.college) - _"Education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion."_
 
 ## LaTeX
 
-- [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
-- [Templates](http://www.latextemplates.com) - _"The best source of free quality LaTeX templates."_
-- [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - _"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."_
+- [Cheatsheet](https://wch.github.io/latexsheet/latexsheet.pdf) - _"LaTeX 2 cheat sheet.3"_
 - [Mathpix Snip](https://mathpix.com) - _"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"_
+- [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
+- [Tables Generator](https://www.tablesgenerator.com/) - _"Create LaTeX tables online."_
+- [Templates](http://www.latextemplates.com) - _"The best source of free quality LaTeX templates."_
+- [Templates](https://www.overleaf.com/latex/templates) - _"Start your projects with quality LaTeX templates for journals, CVs, resumes, papers, presentations, assignments, letters, project reports, and more."_
+- [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - _"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."_
 
 ## Linux & Unix
 
@@ -260,7 +263,9 @@
 
 ### Discrete mathematics
 
-- [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [cs2102: Discrete Math](https://uvacs2102.github.io/) - _"Propositions and proofs, Proof methods (including proof by construction, contradiction, and induction), Logic (Boolean logic, logical formulas, quantifiers), Binary relations, State machines, Finite and infinite sets, Number theory, Counting techniques, Probability theory."_
+- [Readings from MIT OpenCourseWare (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [Readings from MIT OpenCourseWare (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) on proofs, graph theory, recurrences, probability.
 
 #### Algorithms
 
@@ -480,6 +485,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - _"Interactive Git Cheatsheet, categorizing commands based on what they affect."_
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [GitHowTo](https://githowto.com) - _"Git How To is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
+- [GitHub Learning Lab](https://lab.github.com/) - _"With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from our friendly Learning Lab bot."_
 - [Learn Git Branching](https://learngitbranching.js.org) - _"An interactive Git visualization tool to educate and challenge!"_
 - [Pro Git Book](https://git-scm.com/book/en/v2) - _"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."_
 - [Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers) - _"You will walk through a series of scenarios which you’ll most commonly encounter in your daily work life as a developer."_.
@@ -501,10 +507,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - _"This is a series of books diving deep into the core mechanisms of the JavaScript language."_
 - [JavaScript Arrays](https://www.executeprogram.com) - _"Memorize the JavaScript array methods quickly, including weird corner cases; no more looking them up. Slice, filter, map, reduce, and the rest."_
 
-### Julia
-
-- [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
-
 ### Kotlin
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the syntax of Kotlin and the features that make it a laconic language."_.
@@ -518,7 +520,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Python Design Patterns](https://python-patterns.guide/) - _"[...] evolving guide to design patterns in the Python programming language."_.
-- [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
 #### Hosting
 
@@ -616,3 +617,4 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - _"Lighthouse is an open-source, automated tool for improving the quality of web pages."_
 - [Nu HTML Checker](https://validator.w3.org/nu/) - _"This tool is an ongoing experiment in better HTML checking [...]"_
 - [Real Favicon Generator](https://realfavicongenerator.net) - _"Favicon Generator. For real."_
+- [Type Scale](https://type-scale.com/) - _"A visual calculator."_ Deals with font scales.

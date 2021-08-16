@@ -15,8 +15,6 @@
     - [Specialisms](#specialisms)
   - [How to use Slack](#how-to-use-slack)
 - [For developers & contributors](#for-developers--contributors)
-  - [Slack Onboarding](#slack-onboarding)
-    - [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
 
 ## Resources
 
@@ -32,27 +30,29 @@ There is a channel available for each new cohort:
 - `october2019batch`
 - `april2020batch`
 - `october2020batch`
+- `april2021batch`
 - ...
 
 #### Fun channels
 
-| Channel            | Purpose                                                                                                                                                      |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `#hackathons`      | Organise coding challenges                                                                                                                                   |
-| `#hacking`         | Ethical hacking / general InfoSec stuff                                                                                                                      |
-| `#introductions`   | Introduce yourself to your new course mates                                                                                                                  |
-| `#journal-club`    | Read and discuss research papers                                                                                                                             |
-| `#memes`           | Share all the dank memes                                                                                                                                     |
-| `#music`           | Off topic discussion about music                                                                                                                             |
-| `#pets`            | For a bit of furry, feathery or scaly relief                                                                                                                 |
-| `#photography`     | Share your favorite photos and view those from others                                                                                                        |
-| `#polyglots`       | If you are into learning languages other than programming ones                                                                                               |
-| `#random`          | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                  |
-| `#rate-my-setup`   | A place to discuss computing setups                  |
-| `#retrocomputing`  | For those who think that modern computers are too fast. Here we can show our C64-programs, our EBCDIC-skills and ask questions about the Motorola 68000 CPU. |
-| `#space`           | Space exploration, astrophysics and astronomy (or maybe you're just a Trek-kie)                                                                              |
-| `#today-i-learned` | Share briefly what you learned today                                                                                                                         |
-| `#uol_game-jam`    | Group for organising game jams                                                                                                                               |
+| Channel                          | Purpose                                                                                                                                                      |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `#hackathons`                    | Organise coding challenges                                                                                                                                   |
+| `#hacking`                       | Ethical hacking / general InfoSec stuff                                                                                                                      |
+| `#introductions`                 | Introduce yourself to your new course mates                                                                                                                  |
+| `#journal-club`                  | Read and discuss research papers                                                                                                                             |
+| `#memes`                         | Share all the dank memes                                                                                                                                     |
+| `#music`                         | Off topic discussion about music                                                                                                                             |
+| `#pets`                          | For a bit of furry, feathery or scaly relief                                                                                                                 |
+| `#photography`                   | Share your favorite photos and view those from others                                                                                                        |
+| `#polyglots`                     | If you are into learning languages other than programming ones                                                                                               |
+| `#personal-programming-projects` | A place to share, discuss, and improve personal programming projects                                                                                         |
+| `#random`                        | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                  |
+| `#rate-my-setup`                 | A place to discuss computing setups                                                                                                                          |
+| `#retrocomputing`                | For those who think that modern computers are too fast. Here we can show our C64-programs, our EBCDIC-skills and ask questions about the Motorola 68000 CPU. |
+| `#space`                         | Space exploration, astrophysics and astronomy (or maybe you're just a Trek-kie)                                                                              |
+| `#today-i-learned`               | Share briefly what you learned today                                                                                                                         |
+| `#uol_game-jam`                  | Group for organising game jams                                                                                                                               |
 
 #### Help and resources
 
@@ -70,6 +70,7 @@ There is a channel available for each new cohort:
 | `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                                                                                                                                                                       |
 | `#functional`                 | Since functional programming is becoming kind of a mandatory skill in many companies and since it is not easy to be good at it, maybe we want to share thoughts, links, ideas, know-how, blogs, presentations, designs, patterns etc.                                                           |
 | `#general`                    | This channel is for workspace-wide communication and announcements. All members are in this channel.                                                                                                                                                                                            |
+| `#hardware`                   | For questions, advice, reviews of all sorts of hardware. Whether you are looking to complain about video card prices, or to buy, fix, hack or just get excited about a device, here's the place.                                                                                                |
 | `#html-and-css`               | To discuss and questions about web development.                                                                                                                                                                                                                                                 |
 | `#job_opportunities`          | To share IT job opportunities                                                                                                                                                                                                                                                                   |
 | `#latex`                      | Share examples and ask questions about the LaTeX typesetting system                                                                                                                                                                                                                             |
@@ -79,7 +80,7 @@ There is a channel available for each new cohort:
 | `#maths`                      | To share interesting math problems                                                                                                                                                                                                                                                              |
 | `#newbies`                    | Discussion about programming fundamentals, for programming newbies                                                                                                                                                                                                                              |
 | `#notes`                      | Sharing different notes not only from uni or links to other uni open lectures                                                                                                                                                                                                                   |
-| `#uol-announcements`          | Please post any helpful conversations with SRMs or communication from UoL here. Use threads and try to keep things searchable. (Add textual descriptions). A fair warning: even though the name says official. Nothing posted here is binding in any way. _Formerly `#official-communications`_ |
+| `#announcements-from-uol`     | Please post any helpful conversations with SRMs or communication from UoL here. Use threads and try to keep things searchable. (Add textual descriptions). A fair warning: even though the name says official. Nothing posted here is binding in any way. _Formerly `#official-communications` and `#uol-announcements`_ |
 | `#open_source_collaborations` | For UoL students to collaborate together on projects they may want to use for portfolios or building future businesses                                                                                                                                                                          |
 | `#pair-programming`           | Find partners to work with on programming problems                                                                                                                                                                                                                                              |
 | `#podcasts`                   | Listen your way to success while being entertained                                                                                                                                                                                                                                              |
@@ -99,14 +100,14 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                      | Module name                                                                                               |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level-4/cm_1005_introduction_to_programming_i/README.md)       |
-| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level-4/cm_1010_introduction_to_programming_ii/README.md)     |
-| `#cm1015-computational-math` | [Computational mathematics](../modules/level-4/cm_1015_computational_mathematics/README.md)               |
-| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level-4/cm_1020_discrete_mathematics/README.md)                         |
-| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level-4/cm_1025_fundamentals_of_computer_science/README.md) |
-| `#cm1030-hcw` \*             | [How computers work](../modules/level-4/cm_1030_how_computers_work/README.md)                             |
-| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level-4/cm_1035_algorithms_and_data_structures_i/README.md) |
-| `#cm1040-web-dev`            | [Web development](../modules/level-4/cm_1040_web_development/README.md)                                   |
+| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level-4/cm-1005-introduction-to-programming-i/README.md)       |
+| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level-4/cm-1010-introduction-to-programming-ii/README.md)     |
+| `#cm1015-computational-math` | [Computational mathematics](../modules/level-4/cm-1015-computational-mathematics/README.md)               |
+| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level-4/cm-1020-discrete-mathematics/README.md)                         |
+| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level-4/cm-1025-fundamentals-of-computer-science/README.md) |
+| `#cm1030-hcw` \*             | [How computers work](../modules/level-4/cm-1030-how-computers-work/README.md)                             |
+| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level-4/cm-1035-algorithms-and-data-structures-i/README.md) |
+| `#cm1040-web-dev`            | [Web development](../modules/level-4/cm-1040-web-development/README.md)                                   |
 
 \* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
@@ -114,45 +115,47 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                               | Module name                                                                                                 |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level-5/cm_2005_object_oriented_programming)                       |
-| `#cm2010-software-design-development` | [Software Design and Development](../modules/level-5/cm_2010_software_design_and_development)               |
-| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level-5/cm_2015_programming_with_data)                                   |
-| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level-5/cm_2020_agile_software_projects)                               |
-| `#cm2025-computer-security`           | [Computer Security](../modules/level-5/cm_2025_computer_security)                                           |
-| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level-5/cm_2030_graphics_programming)                                     |
-| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level-5/cm_2035_algorithms_and_data_structures_ii/README.md) |
-| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level-5/cm_2040_databases_networks_and_the_web)                |
+| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level-5/cm-2005-object-oriented-programming)                       |
+| `#cm2010-software-design-development` | [Software Design and Development](../modules/level-5/cm-2010-software-design-and-development)               |
+| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level-5/cm-2015-programming-with-data)                                   |
+| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level-5/cm-2020-agile-software-projects)                               |
+| `#cm2025-computer-security`           | [Computer Security](../modules/level-5/cm-2025-computer-security)                                           |
+| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level-5/cm-2030-graphics-programming)                                     |
+| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level-5/cm-2035-algorithms-and-data-structures-ii/README.md) |
+| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level-5/cm-2040-databases-networks-and-the-web)                |
 
 #### Modules level 6
 
-| Channel                                         | Module name                                                                                             |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `#cm3005-data-science`                          | [Data Science](../modules/level-6/cm_3005_data_science)                                                 |
-| `#cm3010-databases-advanced-data-techniques`    | [Databases and Advanced Data Techniques](../modules/level-6/cm_3010_databases_advanced_data_techniques) |
-| `#cm3015-machine-learning-and-neural-networks`  | [Machine Learning and Neural Networks](../modules/level-6/cm_3015_machine_learning_neural_networks)     |
-| `#cm3020-artificial-intelligence`               | [Artificial Intelligence](../modules/level-6/cm_3020_artificial_intelligence)                           |
-| `#cm3025-virtual-reality`                       | [Virtual Reality](../modules/level-6/cm_3025_virtual_reality)                                           |
-| `#cm3030-games-development`                     | [Games Development](../modules/level-6/cm_3030_games_development)                                       |
-| `#cm3035-adv-web-dev`                           | [Advanced Web Development](../modules/level-6/cm_3035_advanced_web_development)                         |
-| `#cm3040-physical-computing-internet-of-things` | [Physical Computing and the Internet of Things](../modules/level-6/cm_3040_physical_computing_iot)      |
-| `#cm3045-3d-graphics-animation`                 | [3D Graphics and Animation](../modules/level-6/cm_3045_3d_graphics_animation)                           |
-| `#cm3050-mobile-development`                    | [Mobile Development](../modules/level-6/cm_3050_mobile_development)                                     |
-| `#cm3055-interaction-design`                    | [Interaction Design](../modules/level-6/cm_3055_interaction_design)                                     |
-| `#cm3060-natural-language-processing`           | [Natural Language Processing](../modules/level-6/cm_3060_natural_language_processing)                   |
-| `#cm3065-intelligent-signal-processing`         | [Intelligent Signal Processing](../modules/level-6/cm_3065_intelligent_signal_processing)               |
-| `#cm3070-final-project`                         | [Final Project](../modules/level-6/cm_3070_final_project)                                               |
+| Channel                                           | Module name                                                                                             |
+| --------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
+| `#cm3005-data-science` \*                         | [Data Science](../modules/level-6/cm-3005-data-science)                                                 |
+| `#cm3010-databases-advanced-data-techniques`      | [Databases and Advanced Data Techniques](../modules/level-6/cm-3010-databases-advanced-data-techniques) |
+| `#cm3015-machine-learning-and-neural-networks` \* | [Machine Learning and Neural Networks](../modules/level-6/cm-3015-machine-learning-neural-networks)     |
+| `#cm3020-artificial-intelligence`                 | [Artificial Intelligence](../modules/level-6/cm-3020-artificial-intelligence)                           |
+| `#cm3025-virtual-reality`                         | [Virtual Reality](../modules/level-6/cm-3025-virtual-reality)                                           |
+| `#cm3030-games-development`                       | [Games Development](../modules/level-6/cm-3030-games-development)                                       |
+| `#cm3035-adv-web-dev`                             | [Advanced Web Development](../modules/level-6/cm-3035-advanced-web-development)                         |
+| `#cm3040-physical-computing-internet-of-things`   | [Physical Computing and the Internet of Things](../modules/level-6/cm-3040-physical-computing-iot)      |
+| `#cm3045-3d-graphics-animation`                   | [3D Graphics and Animation](../modules/level-6/cm-3045-3d-graphics-animation)                           |
+| `#cm3050-mobile-development`                      | [Mobile Development](../modules/level-6/cm-3050-mobile-development)                                     |
+| `#cm3055-interaction-design`                      | [Interaction Design](../modules/level-6/cm-3055-interaction-design)                                     |
+| `#cm3060-natural-language-processing`             | [Natural Language Processing](../modules/level-6/cm-3060-natural-language-processing)                   |
+| `#cm3065-intelligent-signal-processing`           | [Intelligent Signal Processing](../modules/level-6/cm-3065-intelligent-signal-processing)               |
+| `#cm3070-final-project`                           | [Final Project](../modules/level-6/cm-3070-final-project)                                               |
+
+\* These modules can be skipped with RPL (Recognition of Prior Learning). See the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
 #### Specialisms
 
-| Channel         | Specialism                                                                       |
-| --------------- | -------------------------------------------------------------------------------- |
-| `#data_science` | [Data Science](../modules/level-6/data_science/README.md)                        |
-| `#gamedev`      | [Game Development](../modules/level-6/games_dev/README.md)                       |
-| `#iot`          | [Internet of Things](../modules/level-6/phys_computing_iot/README.md)            |
-| `#mlai`         | [Machine Learning & Artificial Intelligence](../modules/level-6/ml_ai/README.md) |
-| `#ux`           | [User Experience](../modules/level-6/user_experience/README.md)                  |
-| `#vr`           | [Virtual Reality](../modules/level-6/virtual_reality/README.md)                  |
-| `#webdev`       | [Web and Mobile Development](../modules/level-6/web_mobile_dev/README.md)        |
+| Channel                  | Specialism                                                                       |
+| ------------------------ | -------------------------------------------------------------------------------- |
+| `#data_science`          | [Data Science](../modules/level-6/data-science/README.md)                        |
+| `#gamedev`               | [Game Development](../modules/level-6/games-dev/README.md)                       |
+| `#iot`                   | [Internet of Things](../modules/level-6/phys-computing-iot/README.md)            |
+| `#mlai`                  | [Machine Learning & Artificial Intelligence](../modules/level-6/ml-ai/README.md) |
+| `#ux`                    | [User Experience](../modules/level-6/user-experience/README.md)                  |
+| `#vr`                    | [Virtual Reality](../modules/level-6/virtual-reality/README.md)                  |
+| `#web-mobile-specialism` | [Web and Mobile Development](../modules/level-6/web-mobile-dev/README.md)        |
 
 ### How to use Slack
 
@@ -167,34 +170,4 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 ## For developers & contributors
 
-[awesome-slack](https://github.com/matiassingers/awesome-slack/) — [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of awesome Slack related things
-
-### Slack Onboarding
-
-#### Slack Onboarding Workflow ('Slack Tutor')
-
-A Slack workflow welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the workflow is as follow:
-
-```
-Hey @new_user_name! Welcome aboard. A few key points you will want to know to get started:
-
-- *Reply using threads* to keep things neat instead of posting to the channel. :thumbsup:
-* Read the *Programme Regulations* and the *Guidelines for Examinations*: london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf and london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf
-- *Post in the relevant channels*: there is a channel for each module, starting with `#cm`. For example, discrete maths questions should go in #cm1020-discrete-math. Use #askpreviouscohorts or #october2019batch for cohort specific discussion instead of #general.
-- *Make sure a channel doesn't already exist* before creating another one with the same purpose. You can collaborate in a *private group work* by creating a *private channel* instead of a public one.
-- *Curated list of course related resources* here: github.com/world-class/REPL
-* Remember to check the *pinned messages* in each channel: you'll find useful info!
-- *Please do your own research* (Slack, search engine, etc.) before asking a question that has been answered many times. For a start, make sure you have read all the documents you will find on that page: github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
-* Don't forget the *_Search_ feature* available on Slack (specific keywords, messages from a specific user with *from:@username*, in different channels, by files, within certain dates, etc.). → slack.com/help/articles/202528808-search-in-slack
-* Get in touch with your tutors and SRMs (Student Relationship Managers)! → github.com/world-class/REPL#reaching-out-to-tutors-and-srms
-* Be *nice*, be *respectful*. Don't make jokes or post memes that target a particular gender, religion, nationality or sexuality — we're a global and multicultural community. *Some students may be more sensitive* about certain topics and we certainly *don't want to discriminate* anybody and *don't want to make Slack a hostile environment* in any way.
-- *Do not violate UoL guidelines* (don’t post *illegal* materials, solutions to *graded quizzes* or big *chunks of code* related to any graded assignment).
-- *Refer to specific modules, videos and quizzes by their number* (week and item numbers as shown in Coursera), so that it is easy for future users to look for answers. You'll find a #bugs channel to help you uncover if a bug you have encountered has been documented before: please post to that channel *only once a bug has been identified* as such in another channel.
-- *Thank people* when they help you! :slightly_smiling_face: Despite the distance, we're still humans (most of us, anyways).
-
-We hope you'll have a great time here! *_Remember that succeeding as a CS student has a lot to do with being able to find answers on your own and sharing them to cement your learning_* :bulb:.
-
-Be well and *welcome* :slightly_smiling_face:!
-```
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [awesome-slack](https://github.com/matiassingers/awesome-slack/) — A curated list of awesome Slack related things.

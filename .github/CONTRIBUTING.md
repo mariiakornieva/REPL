@@ -65,7 +65,7 @@ Here are a couple of places where you will find useful resources:
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - https://github.com/world-class/REPL/blob/master/websites/README.md#git--github
 - https://github.com/world-class/REPL/blob/master/youtube/README.md#git--github
-- https://github.com/world-class/REPL/tree/master/online_courses/free#git--github
+- https://github.com/world-class/REPL/tree/master/online-courses/free#git--github
 
 ### Code of Conduct
 
@@ -96,7 +96,7 @@ Explain the problem and include additional details to help maintainers reproduce
 - **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples (_if applicable_). If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 - **Explain which behavior you expected to see instead and why.**
-- **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+- **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) on Linux.
 
 #### Suggesting Enhancements
 

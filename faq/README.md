@@ -34,11 +34,12 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [What kind of materials will the university deliver to us](#what-kind-of-materials-will-the-university-deliver-to-us)
 - [Modules and progression](#modules-and-progression)
   - [How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
+  - [Can I publicly share my assignments online on sites like GitHub or GitLab](#can-i-publicly-share-my-assignments-online-on-sites-like-github-or-gitlab)
   - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
   - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
   - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
   - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
-  - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
+  - [Where can I see a syllabus or module specification of all available modules](#where-can-i-see-a-syllabus-or-module-specification-of-all-available-modules)
   - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
   - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
   - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
@@ -66,6 +67,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [Exams](#exams)
   - [Can you provide examples of acceptable calculators, and examples of unacceptable calculators](#can-you-provide-examples-of-acceptable-calculators-and-examples-of-unacceptable-calculators)
   - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
+  - [What referencing style should I use when submitting my work](#what-referencing-style-should-i-use-when-submitting-my-work)
   - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
   - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
   - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
@@ -84,7 +86,8 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
   - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
 - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
-  - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
+  - [What professional certificates are suitable for RPL](#what-professional-certificates-are-suitable-for-rpl)
+  - [How to apply for an automatic RPL](#how-to-apply-for-an-automatic-rpl)
   - [Is RPL time limited](#is-rpl-time-limited)
   - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
   - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
@@ -146,7 +149,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - You will receive an email a few business days (sometimes more) after your successful registration as a student once your payment has been made.
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
-- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#uol-announcements` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
+- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
 
 ### :question: I need help! Whom should I ask
 
@@ -238,6 +241,11 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
 
+### Can I publicly share my assignments online on sites like GitHub or GitLab
+
+- **You are strongly advised not to do so**, as is indicated in the submission guidelines of some modules. As per the guidelines in _Introduction to Programming II_ (as of June 2021): _"Do not host code on publicly available version control repositories (i.e. GitHub) **before or after** the submission"_ (emphasis added).
+- As a computer science student, it is highly recommended that you use a VCS tool such as [Git](https://git-scm.com/) to keep track of your work. Therefore, you can publish your work in _private repositories_ on both [GitLab](https://about.gitlab.com/) and [GitHub](https://github.com/) with a free plan. Please note that as a student of this programme, you can take advantage of the **[GitHub student pack](https://education.github.com/pack)** by registering with your student email and giving proof of enrollment (a screenshot of your latest payment for any module will do).
+
 ### Can I still access the modules I have taken once the semester is over
 
 - Note that certain quizzes, especially summative ones, become locked and you cannot even see the questions anymore. Other than that, lectures and other pages remain accessible.
@@ -251,7 +259,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   2. you are still within your maximum period of registration;
   3. you have not failed at the final attempt, a module that is core on the degree to which you wish to transfer;
   4. you have not passed more than one Level 6 module which does not fit on the degree to which you wish to transfer;
-  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
+  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf).
 
 ### How can I drop/withdraw from module
 
@@ -260,11 +268,12 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 ### What is the maximum number of modules that one can select per semester and what if I fail one module
 
 - The maximum number of modules you can register for in any one session is five (or three plus the final project). This can be a combination of new modules and resits (with a maximum of four new modules), or resits only.
-- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
+- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf).
 
-### Where can I see a syllabus of all available modules
+### Where can I see a syllabus or module specification of all available modules
 
-- [https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005)
+- When enrolled as a student: [https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005)
+- [Module specifications](https://github.com/world-class/binary-assets/tree/master/modules/module-specification) and [syllabi](https://github.com/world-class/binary-assets/tree/master/modules/syllabi) are shared unofficially as they are made available.
 
 ### How can I progress to level 5 modules
 
@@ -345,7 +354,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 ## Programme regulations
 
-This (intentionally short!) section serves as a reminder to read [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) in details :book:, which answers general questions well enough.
+This (intentionally short!) section serves as a reminder to read [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf) in details :book:, which answers general questions well enough.
 
 Some of the questions that can be answered by reading the programme regulations:
 
@@ -379,7 +388,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### What week are we on
 
-- Check the topic of [#general](https://londoncs.slack.com/archives/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
+- Check the topic of [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
 
 ### How do I setup calendar sync on Coursera
 
@@ -387,7 +396,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### I don't want to miss important announcements, what to do
 
-- Make sure you have a filter in your email for UoL emails. Also subscribe to [#official-communications](https://londoncs.slack.com/archives/CM4KKHUCB) on Slack.
+- Make sure you have a filter in your email for UoL emails. Also subscribe to [#announcements-from-uol](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack.
 
 ### How long are vacations between semesters
 
@@ -419,6 +428,11 @@ Some of the questions that can be answered by reading the programme regulations:
 ### Will you be expanding test centers The closest one to me is rather far away
 
 - There are no plans to expand test centres at present. Please see [this link](https://london.ac.uk/current-students/examinations/examination-centres) for a list of over 500 approved exam centres.
+
+### What referencing style should I use when submitting my work
+
+- There is no specific style enforced, although consistency across your work is key to producing professional-looking results.
+- Good starting points include the [Harvard](https://onlinelibrary.london.ac.uk/support/information-skills/organising-and-citing-your-references/referencing-styles-harvard) and [IEEE](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) referencing styles. Some students have also used footnotes in Google Docs.
 
 ### If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it
 
@@ -453,7 +467,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### My peer-reviewed work isn't graded yet, what can I do
 
-- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
+- Ask in the Slack channel [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ).
 
 ### Do I have to complete all the formative as well as the summative assessments on Coursera
 
@@ -495,15 +509,24 @@ If you have any specific queries about something you have created which you are 
 ### I feel I need to vent, where can I go
 
 - [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
-- Visit the [#vent](https://londoncs.slack.com/archives/CJG51H2CS) channel on Slack.
+- Visit the [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack.
 
 ---
 
 ## Recognition of Prior Learning (RPL)
 
-### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
+### What professional certificates are suitable for RPL
 
-- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
+You can find the up-to-date list of certificates eligible for automatic RPL [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+### How to apply for an automatic RPL
+
+- See [this article](../subreddit/rpl-guide.md) in the Subreddit section of the REPL for an example on how to get RPL in How Computers Work module with Google IT Professional Certificate.
 
 ### Is RPL time limited
 
@@ -520,11 +543,11 @@ If you have any specific queries about something you have created which you are 
 
 ### What can be accepted as RPL
 
-- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits at Level 4. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- Please be advised that it is recognized by the University of London as prior learning, giving students exemption from the module How Computers Work at level 4. The deadline to register for RPL for the October 2019 session was 26 August 2019. If you wish to apply for RPL for the April 2020 session, you will be able to do so from 16 December 2019.
+- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 

@@ -120,7 +120,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/7108679?v=4",
       "profile": "https://xplaind.com",
       "contributions": [
-        "doc"
+        "doc",
+        "bug"
       ]
     },
     {
@@ -390,6 +391,34 @@
         "bug",
         "code",
         "design"
+      ]
+    },
+    {
+      "login": "morags",
+      "name": "Morag S.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5771389?v=4",
+      "profile": "https://github.com/morags",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "justoneplanet",
+      "name": "Mitsuaki Ishimoto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/397001?v=4",
+      "profile": "https://kaomoji.tokyo/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "knez",
+      "name": "Nikola Knežević",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48497634?v=4",
+      "profile": "https://knez.github.io",
+      "contributions": [
+        "doc"
       ]
     }
   ],
