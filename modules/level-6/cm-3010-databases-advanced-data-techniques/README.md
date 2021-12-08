@@ -7,7 +7,13 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
+  - [Reading list](#reading-list)
+  - [Semantic Web](#semantic-web)
+  - [SQL](#sql)
 
 ---
 
@@ -40,6 +46,10 @@ One two-hour unseen written examination and coursework (Type I)
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3010_DADT-Module-Spec.pdf)
 
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm3010-dadt).
+
 ## Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3010_DADT.pdf)
@@ -49,3 +59,15 @@ One two-hour unseen written examination and coursework (Type I)
 ### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/databases-and-advanced-data-techniques).
+
+### Reading list
+
+[Reading list for topics 1 to 5](https://github.com/world-class/binary-assets/blob/master/modules/cm3010-dadt/CM3010_reading_list_topics_1-5.pdf).
+
+### Semantic Web
+
+- [Linked Data Engineering (Semantic Web) OpenHPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY6jb46jCpMoqb-dbVewxg). - Prof. Dr. Harald Sack
+
+### SQL
+
+- [The Art of PostgreSQL](https://theartofpostgresql.com/). - _"The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!"_
